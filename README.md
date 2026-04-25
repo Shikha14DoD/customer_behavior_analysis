@@ -56,6 +56,7 @@ Product/category performance
 Interactive filters for deeper analysis
 
 Results & Insights:
+
 Identified key customer purchasing patterns
 Highlighted top-performing product categories
 Discovered trends in customer behavior over time
