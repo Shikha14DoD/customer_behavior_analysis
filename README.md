@@ -1,9 +1,8 @@
-# customer_behavior_analysis
+# Customer_Behavior_Analysis
 Data Analytics portfolio project involving end-to-end analysis of customer shopping trends using SQL, Python, and Power BI
 
 Data Analytics Project: Customer Shopping Trends Analysis
 Overview:
-
 This project presents an end-to-end data analytics workflow focused on analyzing customer shopping trends. It covers data loading, cleaning, exploratory data analysis (EDA), SQL-based querying, and dashboard visualization. The goal is to extract meaningful insights that can support data-driven decision-making in retail.
 
 Dataset:
@@ -49,7 +48,6 @@ Designed a presentation using Gamma to communicate findings
 Dashboard:
 
 The Power BI dashboard includes:
-
 Sales overview and trends
 Customer segmentation insights
 Product/category performance
